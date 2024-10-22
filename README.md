@@ -1,1 +1,7 @@
-# saidgani.github.io
+# Data scientist
+
+## Education
+
+### Work Experience
+
+#### Projects
